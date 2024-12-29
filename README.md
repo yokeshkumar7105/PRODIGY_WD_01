@@ -4,7 +4,7 @@ This repository contains task number 1 which is been done during my internship a
 
 Created a travel landing page which explores the hotels in the part of chennai.
 
-Checkout the Live demo: <a href="">Travel Era - Live Demo</a>
+Checkout the Live demo: <a href="https://travel-era-chennai.netlify.app/">Travel Era - Live Demo</a>
 
 ## Sample Screenshots
 
